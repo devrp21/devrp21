@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android, Nodejs, Ethical Hacking**
 
-- 💬 Ask me about **Android, Python, Java**
+- 💬 Ask me about **Android, Python, Java, Flutter**
 
 - 📫 How to reach me **devrpatel2106@gmail.com**
 
